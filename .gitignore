@@ -166,3 +166,9 @@ cython_debug/
 src/.DS_Store
 .DS_Store
 .cursorrules
+
+# --- Adicionado em 24/10/2026 ---
+entrada/
+saida/
+converter.command
+.DS_Store
