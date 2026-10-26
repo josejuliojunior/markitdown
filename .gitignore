@@ -172,3 +172,5 @@ entrada/
 saida/
 converter.command
 .DS_Store
+/entrada
+/saida
